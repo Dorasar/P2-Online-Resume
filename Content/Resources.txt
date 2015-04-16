@@ -1,0 +1,3 @@
+http://api.jquery.com/
+http://www.w3schools.com/cssref/
+https://github.com/udacity/frontend-nanodegree-resume

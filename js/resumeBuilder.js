@@ -135,8 +135,8 @@ var projects = {
     {
       "title" : "P2. Online Resume",
       "dates" : "May 11, 2015",
-      "description" : "Demonstrate your mastery of the language's syntax through a series of challenges. Each multipart problem mimics a real-life challenge that front-end developers face. You'll be required to write clean code and to apply your knowledge of variables, objects, JSON, functions and control flow to successfully solve the challenges.",
-      "images" : ["images/ComingSoon.svg"]
+      "description" : "The purpose of this project was to demonstrate mastery of the javascript language's syntax through a series of challenges. We were given a base framework and, using javascript, were asked to manipulate the DOM to create a web page.",
+      "images" : ["images/Project2.jpg"]
     },
     {
       "title" : "P3. Classic Arcade Game Clone",
@@ -147,7 +147,7 @@ var projects = {
     {
       "title" : "P4. Website Optimization",
       "dates" : "July 20, 2015",
-      "description" : "Optimize a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
+      "description" : "Optimize a provided website with a number of optimization and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
       "images" : ["images/ComingSoon.svg"]
     },
     {
@@ -203,6 +203,12 @@ var education = {
       "title" : "Front-End Web Developer",
       "school" : "Udacity",
       "dates" : 2015,
+      "url" : "www.udacity.com"
+    },
+    {
+      "title" : "Intro to Computer Science",
+      "school" : "Udacity",
+      "dates" : 2012,
       "url" : "www.udacity.com"
     }
   ],

@@ -141,8 +141,8 @@ var projects = {
     {
       "title": "P3. Classic Arcade Game Clone",
       "dates": "June 22, 2015",
-      "description": "Given a skeleton, complete the classic arcade game Frogger.",
-      "images": ["images/ComingSoon.svg"]
+      "description": "Given a skeleton, complete the classic arcade game Frogger using Object oriented javascript techniques.",
+      "images": ["images/Project3.jpg"]
     },
     {
       "title": "P4. Website Optimization",

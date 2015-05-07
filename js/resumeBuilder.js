@@ -10,7 +10,7 @@ var bio = {
   },
   "welcomeMessage": "Welcome to my resume! Take a seat and stay awhile. Just leave your seat behind when you leave.",
   "skills": ["Learning", "Programming", "C#", "JS"],
-  "biopic": "images/logo.svg",
+  "biopic": "images/Logo.svg",
 
   "display": function()
   {

@@ -4,7 +4,7 @@ var bio = {
   "contacts": {
     "mobile": "(817) 123-4567",
     "email": "jerrysemail@gmail.com",
-    "github": "Dorasar",
+    "github": "JerryAHames",
     "twitter": "@JerrysTwitter",
     "location": "Fort Worth",
   },

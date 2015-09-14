@@ -90,8 +90,8 @@ var modelProjects = {
       "title": "P6. Feed Reader Testing",
       "dates": "October 12, 2015",
       "description": "Learning about testing with Javascript. Testing is an important part of the development process and many organizations practice a standard known as \"test-driven development\" or TDD. This is when developers write tests first, before they ever start developing their application. <br><br>Whether you work in an organization that writes tests extensively to inform product development or one that uses tests to encourage iteration, testing has become an essential skill in modern web development!",
-      "images": ["images/ComingSoon.svg"],
-      "link": "#",
+      "images": ["images/Project6.jpg"],
+      "link": "http://jerryahames.github.io/P6-Feed-Reader-Testing",
     }
   ]
 };
